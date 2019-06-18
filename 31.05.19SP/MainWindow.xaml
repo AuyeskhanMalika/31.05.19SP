@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="600">
     <Grid>
         <DataGrid Name="itemsDataGrid" Margin="10,10,156,79" IsReadOnly="True" SelectionMode="Single"/>
-        <Button Name="CloseButton" Click="CloseButtonClick" Content="Select" Margin="231,340,156,31"/>
-        <Button Name="UpdateButton" Click="UpdateButtonClick" Content="Update" Margin="10,340,396,31"/>
+        <Button Name="CloseButton" Click="CloseButtonClick" Content="Select" Margin="231,357,156,14"/>
+        <Button Name="UpdateButton" Click="UpdateButtonClick" Content="Update" Margin="10,357,396,14"/>
     </Grid>
 </Window>
